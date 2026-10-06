@@ -12,3 +12,6 @@ If I were to do this project again I would figure out how to get my axis label t
 
 
 BNAN 430 - Introduction to Power BI. Completed: 9/28/26. https://public.tableau.com/views/PowerBI_17906554020340/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+BNAN 430 - Introduction to DAX in Power BI. Completed 8/5/26 https://public.tableau.com/views/PowerBI_17906554020340/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
