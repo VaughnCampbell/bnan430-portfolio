@@ -19,12 +19,12 @@ In past assignments, I calculated year-over-year Profit Growth (%). I subtracted
 
 BNAN 430 - Data Visualization in Power BI. Completed 10/12/26
 https://public.tableau.com/views/PowerBI_17906554020340/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Conditional Formatting
+Conditional Formatting - 
 The ability to format values based on their relation to a fixed number would have been helpful when I visualized net contributions by discount range. I wanted negative values red and positive green, but was unable to do so with Tableau’s limitations; Now I have learned how to do it using Power BI.
-Big Picture
+Big Picture - 
 Through my continued work in Power BI, I have realized a limitation of Tableau is the representation of important values, specifically KPIs. They are easy to create and insightful in Power BI. I just completed an exercise where my KPI tracked returned orders over time in a background area chart with the total returned orders as a value in front of the line. 
-Division of Labor
+Division of Labor - 
 In this new role, I would perform most of my work in Excel. This would include creating and managing tables, removing unnecessary data and cleaning data. If I know my data is a little more open ended, I would use Power BI for visualizations due to the capabilities of data manipulation with DAX. Otherwise I would use Tableau to form visualizations. 
-Gap
+Gap - 
 One thing I haven’t done is create without guidance in Power BI. I believe if given this role, I will have the time and resources to learn my way around the platform on my own. 
 
