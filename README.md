@@ -28,3 +28,8 @@ In this new role, I would perform most of my work in Excel. This would include c
 Gap - 
 One thing I haven’t done is create without guidance in Power BI. I believe if given this role, I will have the time and resources to learn my way around the platform on my own. 
 
+
+Replacing Non Tap-To-Pay Credit/Debit cards
+Which non-contactless cards should be included in the one early-replacement batch this quarter, how many are there, and what will it cost?
+https://public.tableau.com/views/CardPortfolio_17924734250130/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+If I were to redo this project, I would figure out a way to incorporate a visual to highlight the difference between the two bars (cost of replacing all non-contactless cards, cost of replacing the non-contactless cards that expire in more than 6 months) in my explanatory bar chart. I tried using a reference band but it didn't turn out the way I was hoping. 
