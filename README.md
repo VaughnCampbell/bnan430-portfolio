@@ -33,3 +33,10 @@ Replacing Non Tap-To-Pay Credit/Debit cards
 Which non-contactless cards should be included in the one early-replacement batch this quarter, how many are there, and what will it cost?
 https://public.tableau.com/views/CardPortfolio_17924734250130/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I were to redo this project, I would figure out a way to incorporate a visual to highlight the difference between the two bars (cost of replacing all non-contactless cards, cost of replacing the non-contactless cards that expire in more than 6 months) in my explanatory bar chart. I tried using a reference band but it didn't turn out the way I was hoping. 
+
+
+
+Card Growth Analysis
+Where should Bear Down Bank send the pilot mailing of the Wildcat Rewards Card to reach the most customers who qualify under Credit Risk’s guardrails?
+https://public.tableau.com/views/CardGrowth/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+If I were to redo this project, I would probably find a way to combine all the states in the left side of the explanatory dashboard in to one circle to more easily compare against the value for Texas. 
