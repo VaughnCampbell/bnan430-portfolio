@@ -40,3 +40,15 @@ Card Growth Analysis
 Where should Bear Down Bank send the pilot mailing of the Wildcat Rewards Card to reach the most customers who qualify under Credit Risk’s guardrails?
 https://public.tableau.com/views/CardGrowth/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I were to redo this project, I would probably find a way to combine all the states in the left side of the explanatory dashboard in to one circle to more easily compare against the value for Texas. 
+
+** November 16, 2026 · Product Pitch with Generative AI in Adobe Express **
+
+Pitch to Anita Reyes, VP of Merchandising: Approve a one year trial to only discount tables between 0 and 20 percent.
+
+Pitch deck (PDF) · Adobe Express
+
+Toughest objection: What if the sales team cannot sell enough tables, without these large discounts, to come to a conclusion about the right discount amount? Slide 7 answers it: Even that would give us enough data to make a decision, which would be to discontinue tables altogether.
+
+AI use: Brainstorming with Claude, nothing generated onto deck.
+
+Training completed: November 16, 2026
