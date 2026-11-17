@@ -1,6 +1,6 @@
 **Nov 2, 2026 · Data Storytelling with Adobe Express**
 
-Work sample for CFO of Southwest Office Solutions: Stop Offering Discounts on Tables
+Work sample for Anita Reyes of Southwest Office Solutions: Stop Offering Discounts on Tables
 
 [Work sample (PDF)](https://github.com/VaughnCampbell/bnan430-portfolio/blob/main/adobe/campbell-data-storytelling.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:1f58705a-b9b8-5b9e-9b2d-8ee3c9ca6fe3?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
@@ -11,3 +11,17 @@ OpenAI. (2026). ChatGPT [GPT-6]. https://chatgpt.com/share/6aebb2b6-4de0-83e8-bb
 OpenAI. (2026). ChatGPT [GPT-6]. https://chatgpt.com/share/6aebb306-e61c-83e8-9052-3b16d8805b41
 
 Training completed: Nov 2, 2026
+
+** November 16, 2026 · Product Pitch with Generative AI in Adobe Express **
+
+Pitch to Anita Reyes, VP of Merchandising: Approve a one year trial to only discount tables between 0 and 20 percent. 
+
+[Pitch deck (PDF)](https://github.com/VaughnCampbell/bnan430-portfolio/blob/main/adobe/Campbell-Product-Pitch.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:3fcaf5d5-b3bc-5080-ad88-ec9a122fc650?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Toughest objection: What if the sales team cannot sell enough tables, without these large discounts, to come to a conclusion about the right discount amount?
+ Slide 7 answers it: Even that would give us enough data to make a decision, which would be to discontinue tables altogether.
+
+
+AI use: Brainstorming with Claude, nothing generated onto deck. 
+
+Training completed: November 16, 2026
