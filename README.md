@@ -68,3 +68,16 @@ Toughest objection: What if the sales team cannot sell enough tables, without th
 AI use: Brainstorming with Claude, nothing generated onto deck. 
 
 Training completed: November 16, 2026
+
+
+
+** November 23, 2026 · Brand Standard Application in Tableau **
+
+Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of
+Advertising Sales: which two or three genres should lead next year’s ad pitch?
+[Tableau workbook]([https://public.tableau.com/app/profile/...](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954568911680/DataMoviesIMDBDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+One thing I’d change: I would have tried duplicating each dashboard before copying and pasting each element on the bottom (trademark, navigation, logo). I would have saved some time. 
+
+AI use: I used ChatGPt to write my calculated fields for my Explanatory dashboard.
+November 23, 2026
